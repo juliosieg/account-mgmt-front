@@ -1,0 +1,12 @@
+:root {
+    --color-background:#e6e6e6;
+    --font-family: Arial, Helvetica, sans-serif;
+
+    --background-color-conta: #ffffff;
+    --contas-color-saldo-positivo: green;
+    --contas-color-saldo-negativo: red;
+
+    --background-color-acoes-conta: #a2a2a2;
+    --background-color-extrato-par: #d4d4d4;
+    --background-color-extrato-impar: #b3b3b3;
+}
